@@ -72,14 +72,14 @@ const Navbar = class extends React.Component {
                     className="fas fa-lg"
                     src={twitter}
                     alt="Twitter"
-                    style={{ width: '1em', height: '1em', padding: '2em', }}
+                    style={{ width: '1.5em', height: '1.5em', margin: '1.5em', }}
                   />
                 </a>
                 <a title="instagram" href="https://www.instagram.com/hancockforall/">
                   <img
                     src={instagram}
                     alt="Instagram"
-                    style={{ width: '1em', height: '1em', padding: '2em', }}
+                    style={{ width: '1.5em', height: '1.5em', margin: '1.5em', }}
                   />
                 </a>
             </div>
