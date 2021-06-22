@@ -66,20 +66,20 @@ const Navbar = class extends React.Component {
                 About
               </Link>
             </div>
-            <div className="navbar-end has-text-centered social">
+            <div className="navbar-end has-text-centered">
             <a title="twitter" href="https://twitter.com/hancockforall">
                   <img
                     className="fas fa-lg"
                     src={twitter}
                     alt="Twitter"
-                    style={{ width: '1em', height: '1em' }}
+                    style={{ width: '1em', height: '1em',padding: '2em .5em' }}
                   />
                 </a>
                 <a title="instagram" href="https://www.instagram.com/hancockforall/">
                   <img
                     src={instagram}
                     alt="Instagram"
-                    style={{ width: '1em', height: '1em' }}
+                    style={{ width: '1em', height: '1em', padding: '2em .5em' }}
                   />
                 </a>
             </div>
