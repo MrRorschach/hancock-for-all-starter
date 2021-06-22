@@ -17,13 +17,13 @@ mainpitch:
 description: "What an equitable future looks like:"
 intro:
   blurbs:
-    - image: /img/undraw_skateboard_d6or.svg
+    - image: /img/undraw_through_the_park_lxnl.png
       text: >
         Prioritize public park space – Use the site to protect and create public
         park space that serves Austinites of all ages, abilities, and
         disabilities. Ecologically restore Waller Creek and expand hike and bike
         trails along it to serve the Austin community.
-    - image: /img/undraw_pure_love_ay8a.svg
+    - image: /img/undraw_at_the_park_2e47.png
       text: >
         Community Engagement - It is integral that there is broad community
         engagement and full transparency in guiding the transformation of this
@@ -31,13 +31,13 @@ intro:
         the Hancock Golf Course must be decided by all Austinites, especially
         communities of color and working class communities who have historically
         been left out of such conversations.
-    - image: /img/undraw_at_the_park_2e47.svg
+    - image: /img/undraw_skateboard_d6or.png
       text: >
         Retain and Expand Public Use - Do not create a private golf course that
         is exclusionary in nature and does not support Austin values. Instead
         the department should expand public use of the site and address broad
         community needs.
-    - image: /img/undraw_through_the_park_lxnl.svg
+    - image: /img/undraw_pure_love_ay8a.png
       text: >
         Maximize Affordable Housing Opportunities - Maximize housing,
         particularly affordable housing opportunities, in this high opportunity
