@@ -40,8 +40,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              'rgb(149,170,97) 0.5rem 0px 0px, rgb(149,170,97) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(149,170,97)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -53,8 +53,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0)',
+              'rgb(149,170,97) 0.5rem 0px 0px, rgb(149,170,97) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(149,170,97)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -100,9 +100,9 @@ export const IndexPageTemplate = ({
                   </h3>
                   {/* <BlogRoll /> */}
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
+                    {/* <Link className="btn" to="/blog">
                       Read more
-                    </Link>
+                    </Link> */}
                   </div>
                 </div>
               </div>
