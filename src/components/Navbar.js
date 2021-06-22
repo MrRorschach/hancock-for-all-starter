@@ -66,7 +66,7 @@ const Navbar = class extends React.Component {
                 About
               </Link>
             </div>
-            <div className="navbar-end has-text-centered">
+            <div className="navbar-end has-text-centered social">
             <a title="twitter" href="https://twitter.com/hancockforall">
                   <img
                     className="fas fa-lg"
